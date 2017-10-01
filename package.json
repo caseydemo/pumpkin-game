@@ -16,7 +16,9 @@
     "url": "https://github.com/caseydemo/pumpkin-game/issues"
   },
   "homepage": "https://github.com/caseydemo/pumpkin-game#readme",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.16.1"
+  },
   "devDependencies": {},
   "description": ""
 }
