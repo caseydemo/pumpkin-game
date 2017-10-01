@@ -8,7 +8,7 @@ document.onreadystatechange = function() {
   // WHEN DOCUMENT IS LOADED AND INTERACTIVE - START YO STUFF
   if (document.readyState === "interactive") {
     
-    alert('audio is:' + x);
+    
     // ADD EVENT LISTENERS TO ALL BUTTONS
     for (i = 0; i < zone.length; i++) {
       zone[i].addEventListener("click", ButtonStuff);
